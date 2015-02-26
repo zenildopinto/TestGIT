@@ -12,5 +12,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("Teste GIT");
+		System.out.println("E agora o que temos ");
+		System.out.println("E agora o que temos k ");
     }
 }
